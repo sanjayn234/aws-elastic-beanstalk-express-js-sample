@@ -3,7 +3,6 @@ const app = express();
 const port = 8080;
 
 <<<<<<< HEAD
-app.get('/', (req, res) => res.send('Hello Teleperformance!'));
 =======
 app.get('/', (req, res) => res.send('Hello Satish!'));
 >>>>>>> 65fee1d346afa2794a2ea3de1365270fbc8f39d6
